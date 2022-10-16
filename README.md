@@ -1,5 +1,5 @@
 # blair-haus
-Modified Unity FPS Example Project
+Modified Unity FPS Example Project. Mainly used as a sandbox for testing out experimental gaming things.
 
 
 Added:
